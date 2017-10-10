@@ -1,0 +1,91 @@
+﻿@model fibresInTexilesMvc.ViewModels.FibAndProdViewModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>FibAndProdViewModel</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.FiberId)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.FiberId)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Picture1)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Picture1)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Advantages)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Advantages)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Disadvantages)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Disadvantages)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Picture2)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Picture2)
+            </dd>
+    
+            <dt>
+                @*<img src="@Url.Content(@Model.Picture2)" />*@
+                @Html.DisplayNameFor(model => model.Picture)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Picture)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

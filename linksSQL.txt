@@ -1,0 +1,36 @@
+How to find server name of SQL Server Management Studio
+https://stackoverflow.com/questions/16088151/how-to-find-server-name-of-sql-server-management-studio
+
+How to connect to LocalDb
+https://stackoverflow.com/questions/12534454/how-to-connect-to-localdb
+
+How to find SQL server instance name
+https://www.youtube.com/watch?v=RG3DtBR2n4I
+
+Integrated Security = False
+https://stackoverflow.com/questions/23403235/integrated-security-false
+
+SQL SERVER – Configuration Manager – Cannot Connect to WMI Provider. You Do Not Have Permission or The Server is Unreachable
+https://blog.sqlauthority.com/2017/05/20/sql-server-configuration-manager-cannot-connect-wmi-provider-not-permission-server-unreachable/
+
+https://technet.microsoft.com/en-GB/library/ms190699(v=sql.105).aspx
+How to: Start an Instance of SQL Server (SQL Server Configuration Manager)
+
+How to install Microsoft SQL Server Express LocalDB (using the SqlLocalDB.msi program)
+https://www.sqlshack.com/install-microsoft-sql-server-express-localdb/
+
+SQL Server 2016 Express LocalDB
+https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-2016-express-localdb#install-localdb
+
+How to install local db separetley
+https://stackoverflow.com/questions/23320013/how-to-install-localdb-separately
+
+How to find server name of SQL Server Management Studio
+https://stackoverflow.com/questions/16088151/how-to-find-server-name-of-sql-server-management-studio
+
+How to Scan for (and Fix) Corrupt System Files in Windows
+https://www.howtogeek.com/howto/windows-vista/verify-the-integrity-of-windows-vista-system-files/
+
+Browse for Servers does not display local instance
+https://dba.stackexchange.com/questions/127849/browse-for-servers-does-not-display-local-instance
+

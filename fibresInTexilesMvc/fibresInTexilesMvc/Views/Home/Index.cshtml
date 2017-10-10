@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="~/Content/myCSS.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+</head>
+<body>
+    @{
+        ViewBag.Title = "Index";
+    }
+    <style>
+
+        *{
+            margin:0px;
+            padding:0px;
+        }
+        /** {
+            margin: 0px;
+            padding: 0px;
+            color: red;
+            text-transform: uppercase;
+            font-size: 4vw;
+            font-weight: bold;
+            line-height: 1.8em;
+            letter-spacing: 5px;
+        }*/
+        
+        html,body{
+            background-color:transparent;
+            margin:0;          
+        }
+        
+        #rowLinks{
+            margin-top:9%;            
+        }
+
+        html {
+            background: url('../Content/imgLandingPage/men1-second-upSpace-third.jpg') no-repeat center top fixed;      
+            background-size: cover;                  
+        } 
+        #rowLinks > ul > li{list-style:none;
+                            text-decoration:none;
+        }
+            /*a{ color: #eaa87f;
+    text-decoration: none;
+    line-height: 1.4;
+    font-size: 2em;
+}*/
+        .list-unstyled{
+            color:#efb74c;
+            
+            text-transform:uppercase;
+        } 
+        .list-unstyled li:first-child{
+            font-size: 1.8em;
+            font-weight: 700;
+            line-height: 1.8em;
+            letter-spacing:0.4em;
+            font-weight:800;
+        }
+        .list-unstyled a{
+            color:#fcfef1;
+            font-size: 1.8em;
+            font-weight: 700;
+            line-height: 1.8em;
+            letter-spacing:0.4em;
+            text-decoration:none;
+        }
+         .list-unstyled a:hover{
+             color:#fbe3b5;
+         }
+        
+    </style>
+   
+    <div class="bg">
+    <div class="container body-content" id="landingPage">      
+    <div class="row" id="rowLinks">              
+                    <div class="col-lg-3  col-sm-12 col-md-4"> 
+                        <ul class="text-center list-unstyled" id="links">                           
+                                <li>
+                                    NATURAL
+                                    @*<a href="/natural/" class="banner-nav__heading">NATURAL</a>*@
+                                </li>
+                                <li>
+                                    @Html.ActionLink("Cotton", "DetailsVM", "FibAndProd", new { FiberId = "1" }, null)
+                                </li>
+                                <li>@Html.ActionLink("Wool", "DetailsVM", "FibAndProd", new { FiberId = "2" }, null)</li>
+                                <li>@Html.ActionLink("Silk", "DetailsVM", "FibAndProd", new { FiberId = "3" }, null)</li>
+                                <li>@Html.ActionLink("Flax", "DetailsVM", "FibAndProd", new { FiberId = "4" }, null)</li>
+                                <li>@Html.ActionLink("Hemp", "DetailsVM", "FibAndProd", new { FiberId = "5" }, null)</li>
+                                <li>@Html.ActionLink("Jute", "DetailsVM", "FibAndProd", new { FiberId = "6" }, null)</li>                           
+                        </ul>
+                    </div>
+                @*<div class="banner-nav banner-nav__split-expanded">*@
+                    <div class="col-lg-4 col-lg-offset-5 col-sm-12 col-md-4 col-md-offset-4">
+                        @*<div class="col-md-6">*@
+                        @*<div class="syntheticFibresSection">*@
+                        <ul class="text-center list-unstyled" id="links">
+                            <li>SYNTHETIC</li>
+
+                            <li>@Html.ActionLink("Polyester", "DetailsVM", "FibAndProd", new { FiberId = "8" }, null)</li>
+                            <li>@Html.ActionLink("Acrylic", "DetailsVM", "FibAndProd", new { FiberId = "9" }, null)</li>
+                            <li>@Html.ActionLink("Nylon", "DetailsVM", "FibAndProd", new { FiberId = "10" }, null)</li>
+                            <li>@Html.ActionLink("Spandex", "DetailsVM", "FibAndProd", new { FiberId = "11" }, null)</li>
+                            <li>@Html.ActionLink("Kevlar", "DetailsVM", "FibAndProd", new { FiberId = "12" }, null)</li>
+                            @*</div>*@
+                            @*</div>*@
+                        </ul>
+                    </div>
+                @*</div>*@
+          
+        @*</div>*@
+    </div>
+    </div>
+    </div>
+
+</body>
+</html>
+

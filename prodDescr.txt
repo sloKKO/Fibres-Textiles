@@ -1,0 +1,135 @@
+Wool:
+pic1 Tennyson Suit
+This stylish check suit is beautifully tailored in 100% wool.
+pic2 PASHMINA SHAWL WRAPS CLOAK alpaca wool Made in PERU
+This is a long lasting Alpaca Wool Blend garment. Great gift for a birthday or any other special occasion. A perfect gift for a friend, a family member or that special one.
+pic3 Men's Cable Knit Style
+Cable knit sweaters and cardigans are not just for your grandpa anymore. 
+You can now wear this knitwear style and actually be fashionable. A navy blue or gray cable knit cardigan partnered with a nice shirt and tie can really give you a sophisticated look. 
+You can also try wearing it with jeans and a button up shirt for a cozy and casual look. Cable knit sweaters are great for layering and add a lot of texture to your outfit. 
+Enjoy the following collection of cable knit styles for men.
+
+pic3a Light Pink/Ivory Area Rug
+Featuring an intricate geometric design, this monochrome wool rug is the perfect anchor for your traditional living room or exotic loft.
+Cotton:
+
+CotProd1  Baby Blanket
+Luxury Cotton Dual Warm Baby Blanket and Bath Towel also to Swaddle plus a FREE Premium Bamboo Baby Washcloth! Best For Sensitive Skin and To Prevent Bacterial Infections.
+CotProd1a Baby Blanket (ProdId 1)
+Luxury Cotton Blanket made from 100% organic cotton with a layer of clever cells that keep babies warm in the winter and cool in the summer, this is an essential for any new mum and dad.
+CotProd2 Erdem Dress (ProdId 2)
+Printed stretch-cotton dress.
+CotProd3 HIASCIO cotton cushion (ProdId 3)
+This cotton cushion depicting brightly coloured floral motifs will cheer up your sofa, armchair or even your bed.
+
+SILK
+silk1 Curtain Raw Silk Curtain Panels
+The Real Silk True Gold curtain has a warm and cosseting glow that will lend a little luxury to your home, especially with the addition of tuiss touches. Made from real silk, it has gorgeous textural slubs to give it real style and depth. 
+silk2 Mid-19th Century, Settee or Sofa, Louis XV Style
+This is a high quality elegant, English settee or sofa in the French hepplewhite revival or Louis XV th style.
+It has a good shaped giltwood frame with a lovely flowing Rococo style, a serpentine front and cabriole legs, front and rear. All the frame has been ornately carved to a high standard. 
+silk3 Silk Halterneck Maxi Dress
+Crafted pure silk that's slightly gathered for volume and movement, this fluid number is trimmed with romantic floral pattern and detailed with a sheer waist panel and sleeves. 
+
+FLAX:
+flax1suit Tailoring Linen Suit
+
+DESCRIPTION
+A lightweight linen suit woven with a hint of stretch.
+Staying true to traditional tailoring, finer details include hand-finished sleeves, a Melton undercollar and functional cuffs. 
+Trousers are flat-fronted with a sharp crease to the leg.
+
+flax2 Venus Armchair, mid-century style
+In trademark Scandi style, the Bailey armchair combines clean lines with neutral colours and natural wood. A laid back lounge chair befitting a sophisticated, contemporary interior.
+
+flax3  Roses Linen Duvet Cover
+A luxurious, naturally breathable linen is timeless to work in any bedroom. 
+Perfect for a good sleep: anti-allergic, resistant to fungi, cools in summer and warms in winter. In cool weather linen bedding will keep you warm, while during hot summer it feels dry and cool against your skin.
+
+HEMP
+hemp1 Hemp_Runner 
+Very eco friendly rug, manufactured with recycled leather cuts. 
+Can be vacuumed , brushed or shake cleaned. 
+Spots can be removed with a damp cloth.
+
+hemp2 Hemp SHOES Sneakers 
+Hemp shoes are the most convenient. 
+Do not rub your feet, bactericidal and antifungal. 
+Thanks to the unique properties of hemp, your feet will not sweat in the shoes of hemp.
+
+hemp3 Hemp-Chair
+At the exhibition “Poetry Happens” in Milan’s Ventura Lambrate district, Werner Aisslinger showcased the world’s first concept for a monobloc chair made of natural fibers – a project supported by the German chemical company BASF.
+The 'hemp chair' has been designed for a lightweight manufacturing process stemming from the car industry: the renewable raw materials hemp and kenaf are compressed with a water-based thermoset binder to form an eco-friendly, lightweight and yet strong composite.
+
+JUTE
+jute1 Office Bag
+This laptop jute bag is not only environmet friendly but also a value for your money.
+This product is made from of quality jute fabric and lined with cotton tape piping.
+It's easy to carry is able to withstand loads but still light weighed. 
+
+jute3 BrownSuit (Travers Suit)
+Make your fashion statement dashing with this light brown color jute suit. 
+This suit is having high neck collar, buttons and pocket is representing a royalty in itself. 
+Magnificent outfit is a right choice of apparels for your wardrobe.
+
+jute2 Amar Dress
+Golden/red jute  coctail/evening shoulder dress.
+
+POLYESTER
+polyester2 Luggage Split Roller
+The Split Roller EQ 75 Litre travel bag features a split design with separate top and bottom compartments to allow for organisation and access in upright rolling luggage.
+
+Polyester1a  Camping Outdoor Tent
+3-4 Person Polyester Instant Double Layer Pop-up Camping Outdoor Tent.
+
+Polyester3 Floral Jacquard Shirt
+The tropical jacquard weave of lilies and palm, the use of polyester gives the fabric its distinctive lustre which is crafted into a long sleeved blouse that has a ruched collar, fabric covered buttons and frayed frills that run from the front, across the shoulders and onto the back of the piece.
+
+ACRYLIC
+acrylic1 Knitted Winter Gloves
+Mens Knitted Gloves. Touch screen compatible. Knitted cuff. 99% Acrylic, 1% Spandex. 
+
+acrylic2 Butterfly Print Scarf,
+Update your look with this gorgeous butterfly print scarf. The fresh pink and grey tones will brighten up any outfit.
+
+acrylic3 Mateo Rug
+Multi Pebble Contemporary Rug San Fan - Cascades of vibrant colours leap across each rug in this collection. Handcarved to enhance each of the vivid multi-colour combinations to ensure these fabulous designs create a stunning focal point.
+
+NYLON
+nylon1 Ski Jacket
+Waterproof, breathable ski jacket with elastic belt. 
+
+nylon2 Man Cycling Pants
+ Men's Bike Tights Pants/Trousers/Warm Quick Dry Breathable Reflective Strips 3D Pad.
+nylon3 One Piece Swimwear
+Open Back Dark Grey One Piece Swimwear
+
+SPANDEX
+spandex1  Balroom Dress
+Ballroom Dance Dresses Women's Training Spandex
+spandex1a Balroom Dress
+Ballroom Dance Dresses Women's Training Spandex Tulle Sleeveless
+
+spandex2 Men's Wrestling Suit
+Wrestling Singlet
+spandex3 BalletDress
+
+ Dancewear/Costume designed for training, exam or stage use only.
+
+KEVLAR
+kevlar1 Gloves
+Kevlar gloves offer good resistance to cuts and excellent protection from tears
+Lightweight gloves can be used as basic cut resistant gloves or liners under more substantial gloves.
+
+kevlar2 Boolet Proof Vest
+Coolmax Stab Proof Vest With Ballistic II + Stab & Spike Protection
+The vest protect against: Gun9mm, standard blade
+Weight: Approx. 2.5kgs
+Made from DuPont Kevlar®
+Ballistic Level: NIJ Level II
+Edged Blade Level: Level 1.
+
+kevlar3 Kevlar Fibre Shirt 
+Durable cotton construction. Fully lined with 100% DuPont Kevlar. Nylon bonded thread. Water resistant coating. Upper chest pocket and secure internal pocket.
+
+

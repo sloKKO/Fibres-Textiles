@@ -1,0 +1,1208 @@
+ASP.NET MVC Shopping Cart with C#, EF, SQL Server-Part1
+http://www.webdevelopmenthelp.net/2016/10/asp-net-mvc-shopping-cart-part1.html
+
+Custom RoleProvider, Authorization, EF DB First and ASP.NET MVC
+http://techbrij.com/custom-roleprovider-authorization-asp-net-mvc
+
+Authenticating Users with Forms Authentication (C#)
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/security/authenticating-users-with-forms-authentication-cs
+
+Advanced Entity Framework 6 Scenarios for an MVC 5 Web Application (12 of 12)
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/advanced-entity-framework-scenarios-for-an-mvc-web-application
+
+Creating ASP.NET Web Projects in Visual Studio 2013
+https://docs.microsoft.com/en-us/aspnet/visual-studio/overview/2013/creating-web-projects-in-visual-studio
+
+Simple Login Application using Sessions in ASP.NET MVC
+http://www.c-sharpcorner.com/article/simple-login-application-using-Asp-Net-mvc/
+13/06/17
+Storing Images and Photos in SQL Server
+https://social.technet.microsoft.com/wiki/contents/articles/6519.storing-images-and-photos-in-sql-server.aspx
+
+Storing and Retrieving Images from SQL Server using Microsoft .NET
+https://www.codeproject.com/Articles/10861/Storing-and-Retrieving-Images-from-SQL-Server-usin
+
+Retrieve and display Image from Database in ASP.Net MVC
+https://www.aspsnippets.com/Articles/Retrieve-and-Display-Image-from-Database-in-ASPNet-MVC.aspx
+
+EF Database First with ASP.NET MVC: Creating the Web Application and Data Models
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/database-first-development/creating-the-web-application
+
+photo cotton product
+http://www.zoeglencross.com/accessories/zoe-glencross/throw
+
+Part 10 Working with multiple tables in mvc( pragim technologies)
+https://www.youtube.com/watch?v=oN1f2Vpc-wU
+
+Part 8 Data access in mvc using entity framework (pragim technologies)
+https://www.youtube.com/watch?v=Lrr66APUwBk
+
+Part 1 What is Entity Framework
+https://www.youtube.com/watch?v=Z7713GBhi4k
+
+Save Image into database table in ASP.NET MVC
+https://www.youtube.com/watch?v=pvma3fe_JII
+
+How to store and retrieve images from SQL server database using asp.net?
+http://www.dotnetgallery.com/kb/resource21-How-to-store-and-retrieve-images-from-SQL-server-database-using-aspnet.aspx.aspx
+
+Read and write SQL image data, store binary file to sql table.
+http://www.motobit.com/tips/detpg_read-write-sql-image-file/
+
+Working With Multiple Tables in MVC Using Entity Framework
+http://www.c-sharpcorner.com/uploadfile/219d4d/working-with-multiple-tables-in-mvc-using-entity-framework/
+
+Perform all Curd Operations in two tables data using MVC
+http://www.dotnetfunda.com/forums/show/16144/perform-all-curd-operations-in-two-tables-data-using-mvc
+
+	
+Working With Multiple Tables in MVC Using LINQ to SQL
+
+Save Image into database table in ASP.NET MVC
+http://www.c-sharpcorner.com/UploadFile/85ed7a/working-with-multiple-tables-in-mvc-using-linq-to-sql/
+
+How to store image in SQL Server database tables column [duplicate]
+https://stackoverflow.com/questions/15659835/how-to-store-image-in-sql-server-database-tables-column
+
+17/06/2017
+Part 10 Working with multiple tables in mvc
+https://www.youtube.com/watch?v=oN1f2Vpc-wU
+
+Repository Pattern with C# and Entity Framework, Done Right
+https://www.youtube.com/watch?v=rtXpYpZdOzM
+
+C# MVC Entity Framework Database First Tutorial w/ SQL Server Management Studio Basics(good one)
+https://www.youtube.com/watch?v=BeZdeWmW-4Q
+
+Part 47 Displaying images in asp net mvc
+https://www.youtube.com/watch?v=rct6LIyErUE
+
+Save Image into database table in ASP.NET MVC
+https://www.youtube.com/watch?v=pvma3fe_JII
+
+How to add existing database in app_data folder in asp.net
+https://www.codeproject.com/Questions/441590/How-to-add-existing-database-in-app-data-folder-in
+
+ASP.NET MVC 5 From Scratch : Create an ASP.NET MVC 5 Empty Project
+http://www.techjunkieblog.com/2015/04/aspnet-mvc-5-create-aspnet-mvc-5-empty.html
+
+Create a New ASP.NET MVC Project (not urgent to read)
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/nerddinner/create-a-new-aspnet-mvc-project
+
+Why am I getting “Cannot Connect to Server - A network-related or instance-specific error”?
+https://stackoverflow.com/questions/18060667/why-am-i-getting-cannot-connect-to-server-a-network-related-or-instance-speci
+
+SQL 2014 LocalDB Error: “Cannot connect to (localdb)v12.O.”
+https://dyball.wordpress.com/2014/04/28/sql-2014-localdb-error-cannot-connect-to-locaidbv12-o/
+
+https://www.youtube.com/watch?v=R8kJxeTPtDc
+http://sqlmag.com/sql-server/hidden-gems-sql-server-management-studio-registered-servers
+28/06/2017
+What is a stored procedure?  ( it's related to SQL -very good explanation)
+https://stackoverflow.com/questions/459457/what-is-a-stored-procedure
+03/07/2017
+Part 48 Custom html helpers in mvc (using this tutorial to render picture in my project)
+https://www.youtube.com/watch?v=2mACi5D739g
+
+How to update only one table for model from database with Entity Framework?
+https://stackoverflow.com/questions/16985552/how-to-update-only-one-table-for-model-from-database-with-entity-framework
+
+Update model from Database per .edmx doesn't update model/cols if deleted from database?    ( *****)
+https://forums.asp.net/t/1720234.aspx?Update+model+from+Database+per+edmx+doesn+t+update+model+cols+if+deleted+from+database+
+
+How do you update an edmx file with database changes?
+https://stackoverflow.com/questions/9708189/how-do-you-update-an-edmx-file-with-database-change
+05/07/17
+	
+Working With Multiple Tables in MVC Using Entity Framework
+http://www.c-sharpcorner.com/UploadFile/219d4d/working-with-multiple-tables-in-mvc-using-entity-framework/
+
+Reading Related Data with the Entity Framework in an ASP.NET MVC Application
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/reading-related-data-with-the-entity-framework-in-an-asp-net-mvc-application
+
+Entity Framework Tutorial
+http://www.entityframeworktutorial.net/EntityFramework4.3/dbcontext-vs-objectcontext.aspx
+
+Part 1 What is Entity Framework
+https://www.youtube.com/watch?v=Z7713GBhi4k
+12/07/17
+Generating Outgoing URLs in Views in ASP.NET MVC
+https://chsakell.com/2013/05/07/generating-outgoing-urls-in-views-in-asp-net-mvc/
+
+	
+Multiple Models in Single View in MVC
+http://www.c-sharpcorner.com/UploadFile/ff2f08/multiple-models-in-single-view-in-mvc/
+
+Working With Multiple Tables in MVC Using Entity Framework
+http://www.c-sharpcorner.com/UploadFile/219d4d/working-with-multiple-tables-in-mvc-using-entity-framework/
+
+Creating simple ViewModel to show Two Tables of Data in One View in MVC 5
+https://stackoverflow.com/questions/27465286/creating-simple-viewmodel-to-show-two-tables-of-data-in-one-view-in-mvc-5
+
+Basic object mapper for simple model-viewmodel-model property mapping
+
+ASP.NET MVC Basics Part 2: ViewModel to Model Mapping and Editing
+http://www.edandersen.com/2013/05/30/asp-net-mvc-basics-part-2-viewmodel-to-model-mapping-and-editing/
+
+ASP.Net MVC Viewmodels How to map values from a viewmodel to the database tables
+
+https://stackoverflow.com/questions/17566522/asp-net-mvc-viewmodels-how-to-map-values-from-a-viewmodel-to-the-database-tables
+
+20/07/2017
+Entity Framework Performance and What You Can Do About It
+https://www.red-gate.com/simple-talk/dotnet/net-tools/entity-framework-performance-and-what-you-can-do-about-it/
+
+A specified Include path is not valid. The EntityType 'SpiceShop.Models.Product' does not declare a navigation property with the name 'Products'
+https://stackoverflow.com/questions/15125540/a-specified-include-path-is-not-valid-the-entitytype-spiceshop-models-product
+
+Lazy, Eager, and Explicit Loading of Related Data
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/reading-related-data-with-the-entity-framework-in-an-asp-net-mvc-application
+
+I have an ASP.NET MVC 5 app and I map properties between model and viewmodel and vice versa
+https://codereview.stackexchange.com/questions/108474/simplify-my-class-mapping-common-class-properties-between-model-and-viewmodel-cl
+
+Part 47 Displaying images in asp net mvc
+https://www.youtube.com/watch?v=rct6LIyErUE
+
+How to populate a view models using a linq query ASP.NET MVC 5 Entity Framework
+https://stackoverflow.com/questions/30635973/how-to-populate-a-view-models-using-a-linq-query-asp-net-mvc-5-entity-framework
+
+25/07/2017
+Stop using AutoMapper in your Data Access Code
+https://www.devtrends.co.uk/blog/stop-using-automapper-in-your-data-access-code
+
+27/07
+https://stackoverflow.com/questions/15778375/lazy-vs-eager-loading-performance-on-entity-framework
+
+https://stackoverflow.com/questions/27465286/creating-simple-viewmodel-to-show-two-tables-of-data-in-one-view-in-mvc-5
+https://www.codeproject.com/Articles/788559/Loading-Related-Entities-with-Entity-Framework-A-B
+http://www.entityframeworktutorial.net/EntityFramework4.3/explicit-loading-with-dbcontext.aspx
+https://msdn.microsoft.com/en-us/library/jj574232(v=vs.113).aspx
+https://stackoverflow.com/questions/4256329/cannot-implicitly-convert-type-system-collections-generic-ienumerableanonymous
+
+29/07
+Chapter 6 – Understanding HTML Helpers
+http://stephenwalther.com/archive/2009/03/03/chapter-6-understanding-html-helpers
+
+Custom TagHelpers in ASP.NET MVC 6
+https://www.mikesdotnetting.com/article/275/custom-taghelpers-in-asp-net-mvc-6
+
+ASP.NET MVC Basics Part 2: ViewModel to Model Mapping and Editing  (***)
+http://www.edandersen.com/2013/05/30/asp-net-mvc-basics-part-2-viewmodel-to-model-mapping-and-editing/
+
+Using AutoMapper to map view models in ASP.NET MVC
+http://bengtbe.com/blog/2009/04/14/using-automapper-to-map-view-models-in-asp-net-mvc/
+
+Entity Framework in MVC 3: How to insert a model with a Foreign Key?
+https://stackoverflow.com/questions/7055247/entity-framework-in-mvc-3-how-to-insert-a-model-with-a-foreign-key
+
+Presenting data from multiple tables to a single view (***)
+https://stackoverflow.com/questions/18905833/presenting-data-from-multiple-tables-to-a-single-view
+
+How to structure a controller/view to display a one-to-many relationship. (***)
+https://forums.asp.net/t/1987117.aspx?How+to+structure+a+controller+view+to+display+a+one+to+many+relationship+
+
+MVC 4 generate ViewModel from multiple tables 
+https://forums.asp.net/t/2011614.aspx?MVC+4+generate+ViewModel+from+multiple+tables
+
+How to create relationships between entities in the Entity Framework Code First Approach
+https://www.infragistics.com/community/blogs/dhananjay_kumar/archive/2015/10/21/how-to-create-relationships-between-entities-in-the-entity-framework-code-first-approach.aspx
+
+Performance: Using dynamic code to copy property values of two objects
+https://weblogs.asp.net/gunnarpeipman/performance-using-dynamic-code-to-copy-property-values-of-two-objects
+
+How to Use ViewModel with ASP.NET MVC
+http://sampathloku.blogspot.co.uk/2012/10/how-to-use-viewmodel-with-aspnet-mvc.html
+
+Iterating ICollection from ViewModel within View
+https://stackoverflow.com/questions/29652823/iterating-icollection-from-viewmodel-within-view
+
+31/07
+Using AutoMapper to map view models in ASP.NET MVC
+http://bengtbe.com/blog/2009/04/14/using-automapper-to-map-view-models-in-asp-net-mvc/
+
+Linq Join Query - How to display new table in view MVC C#
+https://stackoverflow.com/questions/31160774/linq-join-query-how-to-display-new-table-in-view-mvc-c-sharp
+
+Reading Related Data with the Entity Framework in an ASP.NET MVC Application
+https://www.asp.net/mvc/overview/getting-started/getting-started-with-ef-using-mvc/reading-related-data-with-the-entity-framework-in-an-asp-net-mvc-application?ref=driverlayer.com
+
+ public ActionResult Details1(int? id)
+
+        {
+            var fib = db.fibres.Find(id);
+            var prod = db.products.Where(p => p.FiberId == id).ToList();
+
+            var vModel = new DetVM();
+            vModel.fibre = fib;
+            vModel.products = prod;
+
+            return View(vModel);
+}
+********** ALL hOMEcONTROLLER.CS***********
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Data;
+using System.Data.Entity;
+using System.Linq;
+using System.Net;
+using System.Web;
+using System.Web.Mvc;
+using fibresInTexilesMvc.Models;
+using fibresInTexilesMvc.ViewModels;
+
+namespace fibresInTexilesMvc.Controllers
+{
+    public class HomeController : Controller
+    {
+      
+        private fibresInTextilesEntities db = new fibresInTextilesEntities();
+
+        // GET: Home
+        public ActionResult Index(int?FiberId)
+
+        {          
+            //var fibres = db.fibres.Include(f => f.products);
+            return View(db.fibres);
+        }
+        public ActionResult Natural()
+        {
+            var fibres = from f in db.fibres
+                         where f.Category == "natural"
+                         select f;
+            return View(fibres);
+        }
+        public ActionResult Synthetic()
+        {
+            var fibres = from f in db.fibres
+                         where f.Category == "synthetic"
+                         select f;
+            return View(fibres);
+        }
+        //public ActionResult FiberAndProducts(int? id)
+        //{
+        //    if (id == null)
+        //    {
+        //        return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+        //    }
+        //    fibre fibre = db.fibres.Find(id);
+
+        //    if (fibre == null)
+        //    {
+        //        return HttpNotFound();
+        //    }
+        //    return View(fibre);
+        //}
+        //{
+        //    var products = db.products.Find(id);
+        //    if (products == null)
+        //    {
+        //        return new HttpNotFoundResult();
+        //    }
+        //    return View(products);
+        //}
+
+        //GET: Home/FiberAndProducts/5
+        //[HttpPost]
+       /* public ActionResult aaa*//* FiberAndProducts*//*(int? FiberId*/ /*FibAndProdViewModel vm*//*)*/
+        //{
+
+            //using (var = new FibAndProdViewModel())
+            //{
+            //    var query = (from f in db.fibres
+            //                 join p in db.products on f.FiberId == equals p.FiberId
+            //                 where fib.FiberId ==
+            //                 select new 
+            //                 {
+            //                     f.Picture1,
+            //                     f.Description,
+            //                     f.Advantages,
+            //                     f.Disadvantages,
+            //                     f.Picture2,
+            //                     p.Picture,
+            //                     p.Name
+
+            //                 }).ToList();
+
+            //}
+
+
+        //    var fibres = db.fibres.Include(p => p.products);
+        //    List<fibre> fibandprodlist = db.fibres.ToList();
+        //    List<FibAndProdViewModel> fibandprodVmList = fibandprodlist
+        //            .Where(x => x.FiberId == FiberId)
+        //.Select(x => new FibAndProdViewModel()
+        //{
+        //    //FiberId = x.FiberId,
+        //    Picture1 = x.Picture1,
+        //    Description = x.Description,
+        //    Advantages = x.Advantages,
+        //    Disadvantages = x.Disadvantages,
+        //    Picture2 = x.Picture2,
+        //    Picture = x.products.Select(a => a.Picture).SingleOrDefault(),
+        //    Name = x.products.Select(a => a.Name).SingleOrDefault()
+        //}).ToList();
+        //    return View(fibandprodVmList);
+    //}
+
+    //public ActionResult FiberAndProducts(FibAndProdViewModel viewModel)
+
+    //{
+    //    if (!ModelState.IsValid)
+    //    {
+    //        return View(viewModel);
+    //    }
+
+    //    var fibAndPr = new FibAndProdViewModel()
+    //    {
+    //        FiberId = viewModel.FiberId,
+    //        Picture1 = viewModel.Picture1,
+    //        Description = viewModel.Description,
+    //        Advantages = viewModel.Advantages,
+    //        Disadvantages = viewModel.Disadvantages,
+    //        Picture2 = viewModel.Picture2,
+    //        Name = viewModel.Name,
+    //        Picture = viewModel.Picture
+    //    };
+
+    //    return View("FiberAndProducts", fibAndPr);
+    //} 
+
+
+    // GET: Home/Details/5
+    public ActionResult Details(int?FiberId)
+
+        {
+
+            if (FiberId == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            fibre fibre = db.fibres.Find(FiberId);
+
+            if (fibre == null)
+            {
+                return HttpNotFound();
+            }
+            return View(fibre);
+
+        }
+
+        // GET: Home/Create
+        public ActionResult Create()
+        {
+            return View();
+        }
+
+        // POST: Home/Create
+        // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
+        // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Create([Bind(Include = "FiberId,Name,Category,Picture1,Description,Advantages,Disadvantages,Picture2")] fibre fibre)
+        {
+            if (ModelState.IsValid)
+            {
+                db.fibres.Add(fibre);
+                db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+
+            return View(fibre);
+        }
+
+        // GET: Home/Edit/5
+        public ActionResult Edit(int? id)
+        {
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            fibre fibre = db.fibres.Find(id);
+            if (fibre == null)
+            {
+                return HttpNotFound();
+            }
+            return View(fibre);
+        }
+
+        // POST: Home/Edit/5
+        // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
+        // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Edit([Bind(Include = "FiberId,Name,Category,Picture1,Description,Advantages,Disadvantages,Picture2")] fibre fibre)
+        {
+            if (ModelState.IsValid)
+            {
+                db.Entry(fibre).State = EntityState.Modified;
+                db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View(fibre);
+        }
+
+        // GET: Home/Delete/5
+        public ActionResult Delete(int? id)
+        {
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            fibre fibre = db.fibres.Find(id);
+            if (fibre == null)
+            {
+                return HttpNotFound();
+            }
+            return View(fibre);
+        }
+
+        // POST: Home/Delete/5
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public ActionResult DeleteConfirmed(int id)
+        {
+            fibre fibre = db.fibres.Find(id);
+            db.fibres.Remove(fibre);
+            db.SaveChanges();
+            return RedirectToAction("Index");
+        }
+
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing)
+            {
+                db.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+    }
+}
+//END
+
+10 ways to Bind Multiple Models on a View in MVC
+https://www.codeproject.com/Articles/1108855/ways-to-Bind-Multiple-Models-on-a-View-in-MVC
+
+How to Use ViewModel in Asp.Net MVC with Example
+http://tutlane.com/tutorial/aspnet-mvc/how-to-use-viewmodel-in-asp-net-mvc-with-example
+
+How to display an dynamic image name with Razor
+https://stackoverflow.com/questions/5974262/how-to-display-an-dynamic-image-name-with-razor
+
+In MVC5 how do I place a partial view with a list in a details view page
+https://forums.asp.net/t/1967425.aspx?In+MVC5+how+do+I+place+a+partial+view+with+a+list+in+a+details+view+page
+03/08/2017
+Details.cshtml - original varsion
+
+
+@model fibresInTexilesMvc.Models.fibre
+ 
+   
+   
+
+@{
+    //ViewBag.Title = "FiberAndProducts";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    @*<div>*@
+        @*<h4>fibre</h4>
+        <hr />*@
+        <div class="container body-content">
+            <div class="row">
+                @*<dl class="dl-horizontal">*@
+                <dt>
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+
+                <dt>
+                @Html.DisplayNameFor(model => model.Category)
+            </dt>
+
+                <dd>
+                @Html.DisplayFor(model => model.Category)
+            </dd>
+
+                <dt>
+                @Html.DisplayNameFor(model => model.Picture1)
+            </dt>
+
+                <div class="overViewFibres">
+                    <div class="col-md-2" id="pic1">
+                        @*To show pictures I'm using Custom Html Helper*@
+                        @Html.Image(@Model.Picture1)
+                    </div>
+                    <div class="col-md-8" id="descriptionFibres">
+
+                        @Html.DisplayNameFor(model => model.Description)
+
+
+
+                        @Html.DisplayFor(model => model.Description)
+
+
+
+                        @Html.DisplayNameFor(model => model.Advantages)
+
+
+
+                        @Html.DisplayFor(model => model.Advantages)
+
+
+
+                        @Html.DisplayNameFor(model => model.Disadvantages)
+
+
+
+                        @Html.DisplayFor(model => model.Disadvantages)
+                    </div>
+
+                    @*<dt>
+                    @Html.DisplayNameFor(model => model.Picture2)
+                </dt>*@
+
+                    <div class="col-md-2" id="pic2">
+                        @*To show pictures I'm using Custom Html Helper*@
+                        @Html.Image(@Model.Picture2)
+                    </div>
+
+                    @*</dl>*@
+                    <table class="table">
+                        <thead>Products</thead>
+                        @*@foreach (var item in Model)
+                    
+                        {*@
+                            @*<tr>
+                                <td>
+                                       @Html.Image(@Model.Picture)
+                                </td>
+                            </tr>*@
+                          
+                          
+                           
+                            <tr>
+                                <td>
+                                    @*@Html.Image(@Model.Picture)*@
+                                    @*@Html.DisplayFor(modelItem => item.Picture)*@
+                                    @*@Html.Image(@Model.Picture)*@
+                                </td>
+                                @*<td>
+                                   @Html.Image(@Model.Picture)
+                                </td>*@
+                            </tr>
+
+                        @*}*@
+                        </table>
+</div>
+
+            </div>
+
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.FiberId }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>
+********************************************8
+ public ActionResult Details(int?id)
+
+        {
+
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            fibre fibre = db.fibres.Find(id);
+
+            if (fibre == null)
+            {
+                return HttpNotFound();
+            }
+
+            FibAndProdViewModel dpvm = new FibAndProdViewModel();
+            List<product> FibAndProdViewModellist = new List<product>();
+
+            //dpvm.fibre = fibre;
+            dpvm.products =   (from p in db.products
+                             select new {
+                                 FiberId = p.FiberId,
+                                 ProductId = p.ProductId,
+                                 Picture = p.Picture,
+                                 Name = p.Name
+                             }).ToList();
+************************************************************8
+FibAndProdController.cs
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+using fibresInTexilesMvc.Models;
+using fibresInTexilesMvc.ViewModels;
+
+namespace fibresInTexilesMvc.Controllers
+{
+    public class FibAndProdController : Controller
+    {
+        // GET: FibAndProd
+        public ActionResult FibAndProdVm/*Index*/(int?FiberId)
+        {
+              fibresInTextilesEntities db = new fibresInTextilesEntities();
+            var fib = db.fibres.Find(FiberId);
+            List<FibAndProdViewModel> FibAndProdViewModellist = new List<FibAndProdViewModel>(); //to hold list of fiber and products
+            var fibandprodlist = (from p in db.products
+                                  join f in db.fibres on p.FiberId equals f.FiberId
+                                  //where p.FiberId == f.FiberId
+                                  select new
+                                  {
+                                     Picture1 =  f.Picture1,
+                                      Description = f.Description,
+                                      Advantages = f.Advantages,
+                                      Disadvantages = f.Disadvantages,
+                                      //f.FiberId,
+                                      Picture2 = f.Picture2,
+                                      Picture = p.Picture,
+                                      Name = p.Name
+                                  }).ToList();
+            // querry getting data from database from joining two tables and storing data in fibandprodlist
+            foreach(var item in fibandprodlist)
+            {
+                FibAndProdViewModel objcvm = new FibAndProdViewModel();//ViewModel
+                //objcvm.Picture1 = item.Picture1;
+                //objcvm.Description = item.Description;
+                //objcvm.Advantages = item.Advantages;
+                //objcvm.Disadvantages = item.Disadvantages;
+                objcvm.Picture2 = item.Picture2;
+                objcvm.Picture = item.Picture;
+                objcvm.Name = item.Name;
+                FibAndProdViewModellist.Add(objcvm);
+            }
+            //Using foreach loop fill data from fibandprodlist to List<FibAndProdViewModel>
+            return View(FibAndProdViewModellist); // List of FibAndProdViewModel (ViewModel)
+            //return View();
+        }
+    }
+}
+**********************************
+FibAndProdController.cs
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+using fibresInTexilesMvc.Models;
+using fibresInTexilesMvc.ViewModels;
+using System.Net;
+
+namespace fibresInTexilesMvc.Controllers
+{
+    public class FibAndProdController : Controller
+    {
+        // GET: FibAndProd
+        public ActionResult Index()
+        {
+            return View();
+        }
+
+        // GET: FibAndProd
+        public ActionResult FibAndProdVm/*Index*/(int? FiberId)
+        {
+            fibresInTextilesEntities db = new fibresInTextilesEntities();
+            var fib = db.fibres.Find(FiberId);
+
+            if (FiberId == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            fibre fibre = db.fibres.Find(FiberId);
+
+            if (fibre == null)
+            {
+                return HttpNotFound();
+            }
+
+            List<FibAndProdViewModel> FibAndProdViewModellist = new List<FibAndProdViewModel>(); //to hold list of fiber and products
+            var fibandprodlist = (from p in db.products
+                                  join f in db.fibres on p.FiberId equals f.FiberId
+                                  //where p.FiberId == f.FiberId
+                                  select new
+                                  {
+                                      //f.Picture1,
+                                      //f.Description,
+                                      // f.Advantages,
+                                      //f.Disadvantages,
+                                      f.FiberId,
+                                      f.Picture2,
+                                      p.Picture,
+                                      p.Name
+                                  }).ToList();
+            // querry getting data from database from joining two tables and storing data in fibandprodlist
+            foreach (var item in fibandprodlist)
+            {
+                FibAndProdViewModel objcvm = new FibAndProdViewModel();//ViewModel
+
+                //objcvm.Picture1 = item.Picture1;
+                //objcvm.Description = item.Description;
+                //objcvm.Advantages = item.Advantages;
+                //objcvm.Disadvantages = item.Disadvantages;
+                objcvm.FiberId = item.FiberId;
+                objcvm.Picture2 = item.Picture2;
+                objcvm.Picture = item.Picture;
+                objcvm.Name = item.Name;
+                FibAndProdViewModellist.Add(objcvm);
+            }
+            //Using foreach loop fill data from fibandprodlist to List<FibAndProdViewModel>
+            return View(FibAndProdViewModellist); // List of FibAndProdViewModel (ViewModel)
+            //return View();
+        }
+
+    }
+
+}
+******************************************
+05/08/2017
+How to display an dynamic image name with Razor
+https://stackoverflow.com/questions/5974262/how-to-display-an-dynamic-image-name-with-razor
+
+How can i load Partial view inside the view
+https://stackoverflow.com/questions/7295835/how-can-i-load-partial-view-inside-the-view
+000
+https://www.youtube.com/watch?v=9zNB7XAwMx4
+https://www.youtube.com/results?search_query=show+images+in+gridview+mvc
+
+DevExpress ASP.NET MVC Image Zoom: Getting Started
+https://www.youtube.com/watch?v=G-2o_3xhXkQ
+
+http://www.programming-free.com/2013/12/fading-list-grid-view-switch-jquery.html
+List/Grid View Switcher with fade-in/out transitions using JQuery
+08/08/2017
+(this I want to use )
+https://documentation.devexpress.com/AspNet/17118/ASP-NET-MVC-Extensions/Image-and-Data-Browsing/ImageZoom/Overview/Overview-ImageZoom
+ASP.NET Controls and MVC Extensions > ASP.NET MVC Extensions > Image and Data Browsing > ImageZoom > Overview - ImageZoom
+
+HTML- tables and FORMS
+https://www.slideshare.net/TelerikAcademy/9-htmltablesforms
+
+How to Improve HTML Table Accessibility with Markup
+http://www.hongkiat.com/blog/html-table-accessibility/
+*********************************************************************
+DetailVM
+......
+@model fibresInTexilesMvc.ViewModels.FibAndProdViewModel
+
+@*@model <fibresInTexilesMvc.ViewModels.DetailsVM>*@
+@{
+
+    ViewBag.Title = "DetailsVM";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DetailsVM</title>
+</head>
+<body>
+    <style>
+
+    </style>
+    <div > 
+        @*<h3> @Html.DisplayFor(model => Model.fibre.Name)</h3>*@
+        <table>           
+                <tr><td><div id="contentPicture">
+                             @Html.Image(@Model.fibre.Picture1,250,200) </div>  </td>           
+            <td>@Html.DisplayFor(model => Model.fibre.Name)
+                @Html.DisplayFor(model => Model.fibre.Description)
+            <ul> @Html.DisplayNameFor(model => Model.fibre.Advantages)></ul>
+
+            <ul>@Html.DisplayFor(model => Model.fibre.Advantages)</ul>
+            <ul>@Html.DisplayNameFor(model => Model.fibre.Disadvantages)</ul>
+
+            <ul>@Html.DisplayFor(model => Model.fibre.Disadvantages)</ul>
+        </td>
+
+        <td>@Html.Image(@Model.fibre.Picture2,250,200)</td></tr>
+    </table>
+              
+              @*<hr/>*@
+                <h3>Products</h3>
+        
+        <table class="table">
+            <tr>              
+                @foreach (var products in Model.Products)
+                {
+                    <td>
+                        <table>
+                            <tr><td><img src="@Url.Content(products.Picture)" style="width:250px; height:250px" /></td></tr>
+                           <tr><td>@Html.DisplayName(products.Name)</td></tr>
+                        </table>
+                    </td>                   
+                }           
+            </tr>
+            </table>
+</div>
+</body>
+</html>
+*************************************11/09/2017
+
+How to create Navigation bar in Asp.Net MVC 100% for beginner| Bootstrap Tutorial - #3How to create Navigation bar in Asp.Net MVC 100% for beginner| Bootstrap Tutorial - #3
+https://www.youtube.com/watch?v=FwqcoXMwgQU
+15/08
+CAROUSEL
+https://codepen.io/crashy/pen/JoKMgG
+
+Fullscreen Background Image Slideshow with CSS3
+https://tympanus.net/codrops/2012/01/02/fullscreen-background-image-slideshow-with-css3/
+
+Components in bootstrap
+https://v4-alpha.getbootstrap.com/components/carousel/
+
+Gridilydidily
+https://philippkuehn.github.io/gridilydidily/
+
+zurb foundation
+http://foundation.zurb.com/sites/docs/grid.html
+16/08
+Building carousel
+https://bootsnipp.com/snippets/50Qlv
+
+animate text
+https://codepen.io/davshoward/pen/LZpdNq?page=10
+
+how to set responsive background
+https://www.youtube.com/watch?v=O1fANvtqoY8
+
+images for landing page
+http://download-wallpaper.net/content/science-lab-wallpaper.html
+
+how to set responsive background cover images css
+https://www.youtube.com/watch?v=c5OpHKezUoE
+
+bootstrap 4: fullscreen background image Responsive + navbar fixed TOP
+https://www.youtube.com/watch?v=qDIPBf_CCA8
+*************************************
+details.cstml (product)
+
+@model fibresInTexilesMvc.Models.product
+
+@{
+    Layout = null;
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Product</h4>
+        <hr />
+        <dl class="dl-horizontal">  
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>   
+            <dd>
+                @Html.Image(@Model.Picture)
+                @*<img src="~/Content/imgProd/@Html.DisplayFor(model =>model.Picture)" />*@
+                @*@Html.Image(@Model.Picture)*@
+                @*@Html.DisplayFor(model => model.Picture)*@
+            </dd>
+            <dd>
+                @Html.DisplayFor(model => model.Overview)
+            </dd>
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.ProductId }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>
+*************************************************
+17/08
+(Good explanation of section and partial view)
+ASP.NET MVC 3: Layouts and Sections with Razor
+https://weblogs.asp.net/scottgu/asp-net-mvc-3-layouts-and-sections-with-razor
+
+(this will be ok. image zoom)
+An Amazing jQuery Image Zoom Effect For Blogger
+https://www.youtube.com/watch?v=DbtrJmjXMOk
+****18/08/2017
+code---------->
+ <div class="col-md-3 col-md-offset-1 col-lg-offset-1"> 
+                       <ul class="text-center">
+                           
+                                <li>
+                                    NATURAL
+                                    @*<a href="/natural/" class="banner-nav__heading">NATURAL</a>*@
+                                </li>
+                                <li>
+                                    @Html.ActionLink("Cotton", "DetailsVM", "FibAndProd", new { FiberId = "1" }, null)
+                                </li>
+                                <li>@Html.ActionLink("Wool", "DetailsVM", "FibAndProd", new { FiberId = "2" }, null)</li>
+                                <li>@Html.ActionLink("Silk", "DetailsVM", "FibAndProd", new { FiberId = "3" }, null)</li>
+                                <li>@Html.ActionLink("Flax", "DetailsVM", "FibAndProd", new { FiberId = "4" }, null)</li>
+                                <li>@Html.ActionLink("Hemp", "DetailsVM", "FibAndProd", new { FiberId = "5" }, null)</li>
+                                <li>@Html.ActionLink("Jute", "DetailsVM", "FibAndProd", new { FiberId = "6" }, null)</li>
+                            </ul>
+                     
+                    </div>
+**********************************************8
+21/08/17
+_Layout.cshtml
+
+<body>
+    <style>
+        
+         /*.navbar-inverse {
+            background-color: #9a1e59;
+            border-color: #3e0eef;
+        }*/
+    </style>
+    @*<div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                </ul>
+            </div>
+        </div>
+    </div>*@
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+                @*<a class="navbar-brand" href="#"><img alt="Brand" src="http://itlglobal.com/wp-content/themes/itlglobal/img/logo.png" height="80" width="80" /></a>*@
+            </div>
+
+            <div class="navbar-collapse collapse" id=".navbar-collapse">
+                    <ul class="nav navbar-nav">
+
+                        <li><a href="#">Natural</a></li>
+                        <li><a href="#">Fibres <em>in</em>TEXTILES</a></li>
+                        <li><a href="#">Synthetic</a></li>
+                    </ul>
+                
+            </div>
+        </div>
+    </div>
+
+    @*<div class="container body-content">*@
+        @RenderBody()
+        @*<hr />*@
+        @*<footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>*@
+    @*</div>*@
+   
+
+    @*@Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/boundles/header")*@
+    @RenderSection("scripts", required: false)
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+
+*************************************************************************88
+22/08/17 Layout.cshtml
+
+<body>
+    <style>
+    </style>
+    
+    <nav>
+        <div class="container-nav">
+            <ul class="menu-main">
+
+                <li><a href="#">Natural</a>
+                    <div class="menu-sub">
+                        <div class="menu-col-1"></div>
+                        <ul>
+                            <li> @Html.ActionLink("Cotton", "DetailsVM", "FibAndProd", new { FiberId = "1" }, null)</li>
+                            <li>@Html.ActionLink("Wool", "DetailsVM", "FibAndProd", new { FiberId = "2" }, null)</li>
+                            <li>@Html.ActionLink("Silk", "DetailsVM", "FibAndProd", new { FiberId = "3" }, null)</li>
+                            <li>@Html.ActionLink("Flax", "DetailsVM", "FibAndProd", new { FiberId = "4" }, null)</li>
+                            <li>@Html.ActionLink("Hemp", "DetailsVM", "FibAndProd", new { FiberId = "5" }, null)</li>
+                            <li>@Html.ActionLink("Jute", "DetailsVM", "FibAndProd", new { FiberId = "6" }, null)</li>
+                        </ul>
+                     </div>
+                </li>
+                
+
+
+                <li><a href="#"><h4>Fibres <em>in</em> TEXTILES</h4></a></li>
+                <li><a href="#">Synthetic</a></li>
+            </ul>
+        <
+        </div>
+    </nav>
+
+    
+
+    @*<div class="container body-content">*@
+        @RenderBody()
+        @*<hr />*@
+        @*<footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>*@
+    @*</div>*@
+   
+
+    @*@Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/boundles/header")*@
+    @RenderSection("scripts", required: false)
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+**********************************************************888
+finish----->
+
+************** OLD CSS  NAVBAR ********************
+.container-nav{
+    width:100%;
+    margin: 0 auto;
+    position:relative;
+    z-index:1000;
+}
+ nav {
+            background-color: #9a1e59;
+            border-color: #3e0eef;
+        }
+ nav ul{
+     margin:0;
+     padding:0;
+     list-style:none;
+     position:relative;
+     text-align:center;
+ }
+ nav  ul:nth-child(1),  nav ul:nth-child(3){
+     font-size:13px;
+ }
+ nav li {
+     display:inline-block;
+     text-transform:uppercase;
+ }
+ nav a{
+     text-decoration:none;
+     display:block;
+     padding: .75em 2.75em;
+ }
+ nav li:hover{
+     /*background:blue;*/
+     background-color:#fff;
+ }
+  nav a:hover{
+      color:grey;
+  }
+  .menu-sub{
+      position:absolute;
+      background:#fff;
+      /*opacity:0.7;*/
+      width:100%;
+      display:none;
+  }
+  nav li:hover .menu-sub{
+      display:block;
+  }
+  .menu-sub li {
+      display:block;
+      text-align:left;
+      line-height:5em;
+  }
+  .menu-sub a{
+      padding:0;
+  }
+************************ FINISH********************************
+Mega menu tylko csss (USE in PROJECT)
+https://codepen.io/felek/pen/eJqLBm?editors=1100
+
+Viewport Sized Typography (Good article)
+https://css-tricks.com/viewport-sized-typography/
+
+About front , landin pages-anomation 
+https://www.youtube.com/watch?v=myZZ9YF2pqs
+
+Very good materials about Sass(****must watch******)
+https://www.youtube.com/watch?v=P1G4_zxOxtk
+
+How can I change the text color of my ActionLink
+@Html.ActionLink("name", "Action", "Controler", new { Style = "color:Green" })
+**************************************8
+Links model images and different  stuff for landing page:
+https://es.aliexpress.com/item/Wu-double-Europe-thin-silk-silk-chiffon-silk-fabric-cloth-beach-kiss-pansy-skirt/32745185381.html?spm=a219c.search0302.4.91.i5TQUO
+
+https://www.aliexpress.com/item-img/588-international-chiffon-thin-silk-fabric/32812167959.html?spm=a219c.10010108.1000017.2.47693981ysyLsn
+
+https://ae01.alicdn.com/kf/HTB1HTcELFXXXXXwXVXXq6xXFXXXO/Brand-new-blue-impreso-flores-finas-telas-de-seda-100-de-mora-de-tela-de-gasa.jpg
+
+https://www.pinterest.co.uk/pin/548031848375436598/?lp=true
+
+https://www.pinterest.co.uk/pin/548031848375436598/?lp=true
+**********************826/08/
+Link to how to change background using photoshop
+https://www.youtube.com/watch?v=GN-OSxI1XqM
+
+*****************29/09/17*******************88
+
+https://www.youtube.com/watch?v=A8sOF_4dwDM
+How to gradually fade 2 images
+
+1st tutorial photopea
+https://www.youtube.com/watch?v=4FNCA5kdq5A
+
+Blend Images Together Seamlessly in Adobe Photoshop
+https://www.youtube.com/watch?v=suhAP62vPbE
+
+How to use the Gradient tool in Photoshop to merge images together  (this tutorial)
+https://www.youtube.com/watch?v=bYFfAWj6yPI
+
+
+
+
+
+
+
+
+
+
+
+
+

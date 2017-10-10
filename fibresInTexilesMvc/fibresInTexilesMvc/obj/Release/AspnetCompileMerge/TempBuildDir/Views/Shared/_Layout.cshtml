@@ -1,0 +1,149 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>@ViewBag.Title</title>
+  
+  
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="@Url.Content("~/Content/myCSS.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/bootstrap.min.css")" rel="stylesheet" type="text/css" />
+    <script src="@Url.Content("~/Scripts/modernizr-2.6.2.js")"></script>
+    
+</head>
+<body>
+    <style>
+    </style>
+    <div class="navbar navbar-fixed-top" role="navigation">
+        <header class="light">
+            <nav>
+                <a href="javascript:void(0);" class="ic menu">
+                   
+                        <span class="line"></span>
+                        <span class="line"></span>
+                        <span class="line"></span>                
+                </a>
+                <a href="javascript:void(0);" class="ic close"></a>
+
+                <ul class="main-nav">
+                    <li>
+                        <a class="mega-menu">
+                            <span>Natural</span>
+                        </a>
+                        <div class="sub-menu-block">
+                            <div class="row">
+                                <div class="col-md-4 col-lg-4 col-sm-4">
+                                    <h2 class="sub-menu-head">Plant Fibres</h2>
+                                    <ul class="sub-menu-lists">
+                                        <li>@Html.ActionLink("Cotton", "DetailsVM", "FibAndProd", new { FiberId = "1" }, null)</li>
+                                        <li>@Html.ActionLink("Flax", "DetailsVM", "FibAndProd", new { FiberId = "4" }, null)</li>
+                                        <li>@Html.ActionLink("Hemp", "DetailsVM", "FibAndProd", new { FiberId = "5" }, null)</li>
+                                        <li>@Html.ActionLink("Jute", "DetailsVM", "FibAndProd", new { FiberId = "6" }, null)</li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-4 col-lg-4 col-sm-4">
+                                    <h2 class="sub-menu-head">Animal Fibres</h2>
+                                    <ul class="sub-menu-lists">
+                                        <li>@Html.ActionLink("Wool", "DetailsVM", "FibAndProd", new { FiberId = "2" }, null)</li>
+                                        <li>@Html.ActionLink("Silk", "DetailsVM", "FibAndProd", new { FiberId = "3" }, null)</li>
+                                        @*<li><a>View All</a></li>*@
+                                    </ul>
+                                </div>
+                                <div class="col-md-4 col-lg-4 col-sm-4">
+                                    <img src="http://countryliving.cdnds.net/17/07/980x490/landscape-1487072016-lamb-spring.jpg" class="img-responsive" />
+                                    @*<h2 class="sub-menu-head">Image</h2>
+                                    <ul class="sub-menu-lists">
+                                        <li><a>Place</a></li>
+                                        <li><a>Holder</a></li>
+                                        <li><a>for</a></li>
+                                        <li><a>Image</a></li>
+                                    </ul>*@
+                                </div>
+                            </div>
+
+                            <div class="row banners-area">
+                                <div class="col-md-6 col-lg-6 col-sm-6">
+                                   
+                                    <img src="~/Content/imgSubMenu/Small-blue-flowers2in1-resThird-res.jpg" class="img-responsive" />
+                                </div>
+                                <div class="col-md-6 col-lg-6 col-sm-6">
+                                    <img src="~/Content/imgSubMenu/fabricSpinning-2img.jpg" class="img-responsive" />
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                       
+                            @*<a><span>Fibres<em>in</em> Textiles</span></a>*@
+                            @Html.ActionLink("Fibres in Textiles", "Index", "Home", null, @*new { Style = "color:white;" },*@ new { @class="link-Home", id="Link-Home"})
+                      
+                    </li>                    
+                    <li>
+                        <a class="mega-menu"><span>Man Made</span></a>
+                        <div class="sub-menu-block">
+                            <div class="row">
+                                <div class="col-md-3 col-lg-3 col-sm-3">
+                                    <h2 class="sub-menu-head">Synthetic</h2>
+                                    <ul class="sub-menu-lists">
+                                        <li>@Html.ActionLink("Acrylic", "DetailsVM", "FibAndProd", new { FiberId = "9" }, null)</li>
+                                        <li>@Html.ActionLink("Spandex", "DetailsVM", "FibAndProd", new { FiberId = "11" }, null)</li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-4 col-lg-4 col-sm-4">
+                                    <h2 class="sub-menu-head">Synthetic Polymers</h2>
+                                    <ul class="sub-menu-lists">
+                                        <li>@Html.ActionLink("Nylon", "DetailsVM", "FibAndProd", new { FiberId = "10" }, null)</li>
+                                        <li>@Html.ActionLink("Polyester", "DetailsVM", "FibAndProd", new { FiberId = "8" }, null)</li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-5 col-lg-5 col-sm-5">
+                                    <h2 class="sub-menu-head">Para-aramid Synthetic Fiber</h2>
+                                    <ul class="sub-menu-lists">
+                                        <li>@Html.ActionLink("Kevlar", "DetailsVM", "FibAndProd", new { FiberId = "12" }, null)</li>
+                                        @*<li><a>View All Synthetic Fibres</a></li>*@
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="row banners-area">
+                                <div class="col-md-6 col-lg-6 col-sm-6">
+                                    <img src="~/Content/imgSubMenu/bannerSynth-transform.jpg" class="img-responsive"/>
+                                </div>
+                                <div class="col-md-6 col-lg-6 col-md-6">
+                                    <img src="~/Content/imgSubMenu/sportswear_mix.jpg" class="img-responsive"/>
+                                </div>
+                            </div>
+
+                        </div>
+                    </li>
+                </ul>
+
+             
+            </nav>
+        </header>
+    </div>
+    @RenderBody() 
+    @*<div class="container body-content">
+       
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Fibres<em>in</em> Textiles</p>
+        </footer>
+    </div>*@
+    @*@RenderBody()*@
+
+    @*@Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/boundles/header")*@
+
+    @RenderSection("scripts", required: false)
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

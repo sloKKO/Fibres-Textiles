@@ -1,0 +1,50 @@
+﻿
+@model fibresInTexilesMvc.Models.product
+
+@{
+    Layout = null;
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="~/Content/myCSS.css" rel="stylesheet" />
+    <title>Details</title>
+</head>
+<body>
+    @*<div>*@
+        @*<h4>Product</h4>*@
+        <hr />
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6  col-sm-12 col-lg-offset-1" >
+                    <div class="text-left">
+                        <img src="@Url.Content(Model.Picture)" class="img-responsive" />
+                        @*@Html.Image(@Model.Picture)*@ 
+                        @*<img src="~/Content/imgProd/@Html.DisplayFor(model =>model.Picture)"  />*@
+                        @*@Html.Image(@Model.Picture)*@
+                        @*@Html.DisplayFor(model => model.Picture)*@
+                    </div>
+                </div>
+            @*</div>*@
+                <div class="col-md-4 col-sm-12 ">
+                    <div class="text-center" id="prodDetails">
+                        <h1> @Html.DisplayFor(model => model.Name)</h1>
+                        <p>@Html.DisplayFor(model => model.Overview)</p>
+                    </div>
+                </div>               
+            </div>
+        </div>
+    @*</div>*@
+    <p>
+        @*@Html.ActionLink("Edit", "Edit", new { id = Model.ProductId }) |
+        @Html.ActionLink("Back to List", "DetailsVM", "FibAndProd", new { id=Model.FiberId},null)*@
+    </p>
+</body>
+</html>
