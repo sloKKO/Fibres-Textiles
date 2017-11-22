@@ -29,51 +29,6 @@ namespace fibresInTexilesMvc.Controllers
           
             return View(prod);
         }
-        //public ActionResult FiberAndProducts(int? FiberId)
-        //{
-
-        //    //var products = db.products.Include(p => p.fibre);
-        //    List<fibre> fibandprodlist = db.fibres.ToList();
-        //    List<FibAndProdViewModel> fibandprodVmList = fibandprodlist
-        //                .Where(x => x.FiberId == FiberId)
-        //                .Select(x => new FibAndProdViewModel()
-        //                {
-        //                    FiberId = x.FiberId,
-        //                    Picture1 = x.Picture1,
-        //                    Description = x.Description,
-        //                    Advantages = x.Advantages,
-        //                    Disadvantages = x.Disadvantages,
-        //                    Picture2 = x.Picture2,
-
-        //                    //Picture = x.products.Select(a => a.Picture).FirstOrDefault(),
-        //                    //Name = x.products.Select(a => a.Name).FirstOrDefault()
-        //                }).ToList();
-        //    return View(fibandprodVmList);
-        //}
-
-        //public ActionResult FiberAndProducts()
-        //{
-        //    //List<product> fibandprodlist = db.products.ToList();
-        //    //List<fibre> fibandprodlist = db.fibres.ToList();
-
-        //    FibAndProdViewModel fibandprodVM = new FibAndProdViewModel();
-
-        //    List<FibAndProdViewModel> fibandprodVmList = fibandprodVmlist.Select(x => new FibAndProdViewModel
-        //    {
-        //        FiberId = x.FiberId,
-        //        Picture1 = x.Picture1,
-        //        Description = x.Description,
-        //        Advantages = x.Advantages,
-        //        Disadvantages = x.Disadvantages,
-        //        Picture2 = x.Picture2,
-        //        Name = x.products.Name,
-        //        Picture = x.products.Picture
-        //    }).ToList();
-        //    return View(fibandprodVmList);
-        //}
-
-
-
 
         // GET: products/Details/5
         public ActionResult Details(int? id)
