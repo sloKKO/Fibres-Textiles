@@ -24,40 +24,7 @@ namespace fibresInTexilesMvc.Controllers
             var fibres = db.fibres.Include(f => f.products);
             return View(db.fibres);
         }
-    //public ActionResult GetFiberProd()
-    //    {
-    //        FibAndProdViewModel fibprodVM = new FibAndProdViewModel();
-    //        fibprodVM.fibre = Getfibre();
-    //        fibprodVM.Products = Getproduct();
-    //        return View(fibprodVM);
-    //    }
-    //    public fibre Getfibre() {
-    //        fibre fib = new fibre()
-    //        {
-    //            FiberId= fib.FiberId,
-    //            Picture1 = fib.Picture1,
-    //            Description = fib.Description,
-    //            Picture2 = fib.Picture2
-    //        };
-    //        return fib;
-    //    }
-    //    public List Getproduct()
-    //    {
-    //        List<product> FibAndProdViewModellist = new List<product>();
-    //        var prodlist = (from p in db.products
-                           
-    //                        select new
-    //                        {
-    //                            FiberId = p.FiberId,
-    //                            ProductId = p.ProductId,
-    //                            Picture = p.Picture,
-    //                            Name = p.Name
-    //                        }).ToList();
-    //    } return prodlist;
-    //public ActionResult SelectFib(int id = 0)
-    //    {
-    //        return View(db.fibres.Include(p => p.products).ToList());
-    //    }    
+   
     // GET: Home/Details/5
     public ActionResult Details(int?id)
 
@@ -72,14 +39,9 @@ namespace fibresInTexilesMvc.Controllers
             if (fibre == null)
             {
                 return HttpNotFound();
-            }
-
-             
+            }             
             return View(fibre);        
     }
-        
-
-
     // GET: Home/Create
     public ActionResult Create()
         {
